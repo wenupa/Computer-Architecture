@@ -1,0 +1,42 @@
+	 	 	 Square Root
+ 
+
+ (1) Square of a given number 1 is = 1 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (2) Square of a given number 2 is = 4 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (3) Square of a given number 3 is = 9 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (4) Square of a given number 4 is = 16 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (5) Square of a given number 5 is = 25 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (6) Square of a given number 6 is = 36 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (7) Square of a given number 7 is = 49 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (8) Square of a given number 8 is = 64 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (9) Square of a given number 9 is = 81 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (10) Square of a given number 10 is = 100 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (11) Square of a given number 11 is = 121 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (12) Square of a given number 12 is = 144 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (13) Square of a given number 13 is = 169 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (14) Square of a given number 14 is = 196 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (15) Square of a given number 15 is = 225 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (16) Square of a given number 16 is = 256 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (17) Square of a given number 17 is = 289 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (18) Square of a given number 18 is = 324 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (19) Square of a given number 19 is = 361 	 Time is : Fri Oct 23 02:43:01 2020
+
+ (20) Square of a given number 20 is = 400 	 Time is : Fri Oct 23 02:43:01 2020

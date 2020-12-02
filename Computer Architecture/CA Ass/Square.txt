@@ -1,0 +1,22 @@
+	 	 	 Square Root
+ 
+
+ Square of a given number 1 is  =  1 	 Time is : Wed Oct 14 17:17:05 2020
+
+ Square of a given number 2 is  =  4 	 Time is : Wed Oct 14 17:17:05 2020
+
+ Square of a given number 3 is  =  9 	 Time is : Wed Oct 14 17:17:05 2020
+
+ Square of a given number 4 is  =  16 	 Time is : Wed Oct 14 17:17:05 2020
+
+ Square of a given number 5 is  =  25 	 Time is : Wed Oct 14 17:17:05 2020
+
+ Square of a given number 6 is  =  36 	 Time is : Wed Oct 14 17:17:05 2020
+
+ Square of a given number 7 is  =  49 	 Time is : Wed Oct 14 17:17:05 2020
+
+ Square of a given number 8 is  =  64 	 Time is : Wed Oct 14 17:17:05 2020
+
+ Square of a given number 9 is  =  81 	 Time is : Wed Oct 14 17:17:05 2020
+
+ Square of a given number 0 is  =  0 	 Time is : Wed Oct 14 17:17:05 2020

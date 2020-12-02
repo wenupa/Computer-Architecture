@@ -1,0 +1,62 @@
+#include<stdio.h>
+#include <stdlib.h>
+
+#include <windows.h>
+
+int main()
+{
+int number, Square,i;
+time_t t; //time_t is non primetivw dat type
+time(&t);
+FILE * fp;
+
+ //open file
+fp = fopen("Square.txt","w"); // w- write mode
+
+ printf("\t \t \t Square Root\n \n");
+
+ fprintf(fp,"\t \t \t Square Root\n \n");
+
+ for(i=0;i<20;i++)
+{
+
+ printf("(%d) Please Enter any integer Value : ",i+1);
+scanf("%d", &number);
+
+ Square = number * number;
+
+ printf("\n Square of a given number %d is = %d \t\t Time is : %s", number, Square,ctime(&t));
+
+fprintf(fp,"\n (%d) Square of a given number %d is = %d \t Time is : %s",i+1, number, Square,ctime(&t));
+
+ }
+
+ fclose(fp);
+
+ system("getmac");
+
+
+
+
+ char str[MAXCHAR];
+
+ char* filename = "Square.txt";
+
+fp = fopen(filename, "r");
+
+ if (fp == NULL)
+{
+
+ printf("Could not open file %s",filename);
+
+ return 1;
+
+ }
+
+ while (fgets(str, MAXCHAR, fp) != NULL)
+
+ printf("%s", str);
+
+ fclose(fp);
+
+}
